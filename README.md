@@ -14,7 +14,10 @@ This is calculated by subtracting the number of people retiring by the number of
 Note: This number is not in reality guarenteed to be true.  There are a number of factors that would contribute to this such as the number of people who actually retire, the number of people who participate in the mentorship program and not the least of which PH's people strategy going forward.  It is not unreasonable to think that a company with thousands of employees would not fill every position where someone left or would be hiring for new positions.  I would imagine that the number of employees they have fluctuates daily.<br/>
 <br/>
 Number of Individuals Availible for Mentorship Role: 1549<br/>
-This number comes from the final peice of part 1 of the challenge.  The parameter here as defined in the challenge is that the employee was born in the year 1965 and that they were a current employee.  We did also remove duplicate records for people who had held more than one position, although this was also accomplished in only looking at records that ran through the current date.
+This number comes from the final peice of part 1 of the challenge.  The parameter here as defined in the challenge is that the employee was born in the year 1965 and that they were a current employee.  We did also remove duplicate records for people who had held more than one position, although this was also accomplished in only looking at records that ran through the current date.[Count](https://github.com/RudyR32/Pewlett-Hackard-Analysis/blob/master/Data(.CSV%20files)/count_by_title.csv)
+
+## Tables Created for the Challenge
+![Count of Employees Retirement Age by Title](https://github.com/RudyR32/Pewlett-Hackard-Analysis/blob/master/Data(.CSV%20files)/count_by_title.csv)
 ## Code created during Analysis
 [Challenge](https://github.com/RudyR32/Pewlett-Hackard-Analysis/blob/master/Queries/challenge.sql)<br/>
 [Schema](https://github.com/RudyR32/Pewlett-Hackard-Analysis/blob/master/Queries/schema.sql)<br/>
