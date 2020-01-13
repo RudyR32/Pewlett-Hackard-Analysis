@@ -4,19 +4,7 @@ For this analysis we were tasked with creating summary data of potential retirie
 ## PNG of the ERD (original 6 DB's)
 ![PNGERD](https://github.com/RudyR32/Pewlett-Hackard-Analysis/blob/master/Pictures/EmployeeDB.png)
 ## Challenge Summary
-Presents a cohesive written
-report that includes the
-following:
-Summary of the results
-✓ number of individuals retiring
-✓ number of individuals being
-hired
-✓ number of individuals
-available for mentorship role
-Additionally, the summary
-should include
-✓ one recommendation for
-further analysis on this data set
+For the challenge we were asked to preform the following analysis.  Calculate the number of individuals retiring, the number of individuals being hired and the number of individuals available for mentorship role below are my finding with a brief explanation of how I did so.<br/>
 
 Number of Individuals Retiring: 41,380<br/>
 This number is based off of the the parameters that the employees were born between Jan 1, 1952 and Dec 31, 1955 as well as being hired between Jan 1, 1985 and Dec 31, 1988.  These are the parameters given in the module for who would be retiring.<br/>
@@ -29,3 +17,6 @@ This number comes from the final peice of part 1 of the challenge.  The paramete
 [Challenge](https://github.com/RudyR32/Pewlett-Hackard-Analysis/blob/master/Queries/challenge.sql)<br/>
 [Schema](https://github.com/RudyR32/Pewlett-Hackard-Analysis/blob/master/Queries/schema.sql)<br/>
 [Queries](https://github.com/RudyR32/Pewlett-Hackard-Analysis/blob/master/Queries/queries.sql)
+
+## Recomendation for Additional Analysis on this Data Set
+The next analysis I would preform on this data set would be to expanded the department level summaries that we preformed for Sales and Development.
