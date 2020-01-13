@@ -17,7 +17,8 @@ Number of Individuals Availible for Mentorship Role: 1549<br/>
 This number comes from the final peice of part 1 of the challenge.  The parameter here as defined in the challenge is that the employee was born in the year 1965 and that they were a current employee.  We did also remove duplicate records for people who had held more than one position, although this was also accomplished in only looking at records that ran through the current date.
 ## Tables Created for the Challenge#### Place Holder
 Below are snapshot of the 3 csv files that we were asked to create for the challenge.
-#### Place Holder
+#### Employees Grouped by Employee Number
+![Employee_grouped_by_employee_number](https://github.com/RudyR32/Pewlett-Hackard-Analysis/blob/master/Pictures/Employees_grouped_by%20_emp_no.PNG)
 
 #### Count of Retirement Aged Employees by Department
 ![Count of Employees Retirement Age by Title](https://github.com/RudyR32/Pewlett-Hackard-Analysis/blob/master/Employees_by_Title.PNG)
